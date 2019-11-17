@@ -2,21 +2,33 @@
 <html lang="en">
 
 <head>
-    <link rel="icon" href="assets/icoSnake.png" type="image/x-icon" />
-    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="shortcut icon" href="./img/IcoCool.png">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:400,400i,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./css/reset.css">
+    <link rel="stylesheet" href="./css/style.css">
     <title>SnakeFruits</title>
 </head>
 
 <body>
-    <div id="menu">
-        <h1>SnakeFruits</h1>
-    </div>
-    <img id="cobrinhaGif" src="assets/gifcobrinha.gif" alt="">
-    <canvas id="scene" width="600" height="600"></canvas>
-    <script src="main.js"></script>
-    <footer>
-        <h2>Credits: github.com/elvissouza </h2>
-    </footer>
+    <section class="container">
+        <div class="menu">
+            <h1>SnakeFruits</h1>
+            <canvas id="scene" width="600" height="600"></canvas>
+        </div>
+        <div class="gif-menu">
+            <img src="assets/gifcobrinha.gif" alt="">
+        </div>
+        <div class="rodape">
+            <footer class="footer">
+                <p>Credits: github.com/elvissouza </p>
+            </footer>
+        </div>
+    </section>
+
+    <script src="./src/main.js"></script>
 </body>
 
 </html>
