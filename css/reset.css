@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css?family=VT323");
+::selection {
+  color: #FFFFFF;
+  background: transparent;
+}
+
+::-moz-selection {
+  color: #FFFFFF;
+  background: transparent;
+}
+
+body, h1, h2, p, ul, li, a {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background: url("../assets/fundoSnake.jpg") no-repeat center center fixed;
+  background-size: cover;
+  -webkit-background-size: cover;
+  /* SAFARI / CHROME */
+  -moz-background-size: cover;
+  /* FIREFOX */
+  -ms-background-size: cover;
+  /* IE */
+  -o-background-size: cover;
+  /* OPERA */
+  font-family: "Nunito", Helvetica, Arial, sans-serif;
+  color: #222222;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
