@@ -1,6 +1,6 @@
 # SnakeFruits Play 👾 🎮
 
-### Onde crio aplicações que aprendo conforme o tempo, tentando deixar atualizado o máximo que puder. Caso possa me passar algumas dicas ### ficaria muito grato.
+### Onde crio aplicações que aprendo conforme o tempo, tentando deixar atualizado o máximo que puder. Caso possa me passar algumas dicas ficaria muito grato.
 #### Obrigado por estar lendo isto e se curtir algum topico ou jogo. Ficarei feliz 😸.  
 
 ---
