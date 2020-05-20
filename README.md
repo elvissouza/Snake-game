@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img width="460" height="300" src ="https://raw.githubusercontent.com/elvissouza/Snake-game/master/assets/gifOfGame.gif">
+  <img width="460" height="300" src ="https://github.com/elvissouza/Snake-game/blob/master/img/gifgame.gif?raw=true">
 </p>
 Havia desenvolvido quase 4 meses atrás meu primeiro jogo da snake, com pouco conhecimento, agora dei uma melhorada como tenho pouca    experiencia, creio que cheguei em um resultado que me deixou feliz.  
 Tirei uns bugs que havia na contagem de pontos, que antes não funcionava se os pontos fossem zero, etc.  
