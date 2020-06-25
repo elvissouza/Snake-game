@@ -17,3 +17,6 @@ Very cool game, it marked my childhood on Nokia phones
 
 
 **Where I create applications that I learn over time, trying to keep updated as much as possible. If you can give me some tips I would be very grateful.**
+
+## Support
+<a href="https://www.buymeacoffee.com/elvissouza" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
